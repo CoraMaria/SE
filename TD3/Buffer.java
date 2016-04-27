@@ -1,5 +1,5 @@
 
-package tema2;
+package TD3;
 
 import java.io.BufferedReader;
 import java.io.File;
